@@ -32,8 +32,6 @@ Feel free to reach out if you have any questions or need further assistance!
    ![Screenshot 2024-08-02 at 6 51 17 PM](https://github.com/user-attachments/assets/9f48178a-3b53-4c20-9a71-35d2370972af)
 ### EventDetails
   ![Screenshot 2024-08-02 at 6 54 52 PM](https://github.com/user-attachments/assets/d4259192-2106-43cb-b62c-3b97119d039b)
-### EventDetails  
-  ![Screenshot 2024-08-02 at 6 54 52 PM](https://github.com/user-attachments/assets/080f70ed-b064-428d-9ae4-f631b2d4c4ba)
 ### Payment
   ![Screenshot 2024-08-02 at 7 03 55 PM](https://github.com/user-attachments/assets/1d8b02c1-5cf1-4976-8aea-1777c707c64a)
 ### Order Placed
